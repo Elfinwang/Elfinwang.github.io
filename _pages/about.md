@@ -25,9 +25,13 @@ I am very fortunate to be advised by Prof.[Yinjun Wu](https://wuyinjun-1993.gith
 ---
 
 # PUBLICATIONS
-**UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence** <br>
-Ruihai Wu*, Haoran Lu*, **Yiyan Wang**, Yubo Wang, Hao Dong<br>
-*CVPR 2024*<br>
-<mark>Nomination (top3) of Outstanding Youth Paper Award</mark> at China Embodied AI Conference (CEAI) 2025<br>
-<mark>Spotlight Presentation</mark> at ICRA 2024 Workshop on Deformable Object Manipulation<br>
-[project page](https://warshallrho.github.io/unigarmentmanip/) / [paper](https://arxiv.org/abs/2405.06903) / [code](https://github.com/luhr2003/UniGarmentManip/) 
+<li>
+  <b>UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence</b><br>
+  Ruihai Wu*, Haoran Lu*, <b>Yiyan Wang</b>, Yubo Wang, Hao Dong<br>
+  <i>CVPR 2024</i><br>
+  <mark>Nomination (Top 3) of Outstanding Youth Paper Award</mark> at China Embodied AI Conference (CEAI) 2025<br>
+  <mark>Spotlight Presentation</mark> at ICRA 2024 Workshop on Deformable Object Manipulation<br>
+  <a href="https://warshallrho.github.io/unigarmentmanip/" target="_blank">project page</a> /
+  <a href="https://arxiv.org/abs/2405.06903" target="_blank">paper</a> /
+  <a href="https://github.com/luhr2003/UniGarmentManip/" target="_blank">code</a>
+</li>
