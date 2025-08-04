@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Beijing, China"
-title                    : "Yiyan Wang/Personal Homepage"
+locale                   : "en-US"
+title                    : "Yiyan Wang"
 title_separator          : "-"
 name                     : &name "Yiyan Wang"
 description              : &description "Ph.D student, School of Computer Science, Peking University"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Elfinwang"
+  github           : "Elfinwang"
   google_plus      :
   keybase          :
   instagram        :
