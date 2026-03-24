@@ -19,7 +19,7 @@ I am very fortunate to be advised by Prof.[Yinjun Wu](https://wuyinjun-1993.gith
 # PUBLICATIONS
 <li>
   <b>Can Large Language Models be a Cardinality Estimator? An Empirical study</b><br>
-  Liangzu Liu, <b>Yiyan Wang</b>, Yinjun Wu, Runze Su, Zhuo Chang, Peizhi Wu, Jianjun Chen, Fuxin Jiang, Rui Shi, Bin Cui, Tieying Zhang<br>
+  Liangzu Liu*, <b>Yiyan Wang*</b>, Yinjun Wu, Runze Su, Zhuo Chang, Peizhi Wu, Jianjun Chen, Fuxin Jiang, Rui Shi, Bin Cui, Tieying Zhang<br>
   <i>VLDB Journal 2026</i><br>
 </li>
 
