@@ -16,16 +16,12 @@ I am very fortunate to be advised by Prof.[Yinjun Wu](https://wuyinjun-1993.gith
 
 ---
 
-# AWARDS
-- **National Scholarship**, Ministry of Education of China, 2023, 2024
-- **Beijing Outstanding Graduate**, Beijing Municipal Education Commission, 2025
-- **Outstanding Student Model**, Beijing Institute of Technology, 2022, 2023, 2024
-
-
----
-
 # PUBLICATIONS
 <li>
+  <b>Can Large Language Models be a Cardinality Estimator? An Empirical study</b><br>
+  Liangzu Liu, <b>Yiyan Wang</b>, Yinjun Wu, Runze Su, Zhuo Chang, Peizhi Wu, Jianjun Chen, Fuxin Jiang, Rui Shi, Bin Cui, Tieying Zhang<br>
+  <i>VLDB Journal 2026</i><br>
+  
   <b>UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence</b><br>
   Ruihai Wu*, Haoran Lu*, <b>Yiyan Wang</b>, Yubo Wang, Hao Dong<br>
   <i>CVPR 2024</i><br>
@@ -35,3 +31,11 @@ I am very fortunate to be advised by Prof.[Yinjun Wu](https://wuyinjun-1993.gith
   <a href="https://arxiv.org/abs/2405.06903" target="_blank">paper</a> /
   <a href="https://github.com/luhr2003/UniGarmentManip/" target="_blank">code</a>
 </li>
+
+---
+
+# AWARDS
+- **National Scholarship**, Ministry of Education of China, 2023, 2024
+- **Beijing Outstanding Graduate**, Beijing Municipal Education Commission, 2025
+- **Outstanding Student Model**, Beijing Institute of Technology, 2022, 2023, 2024
+
